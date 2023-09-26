@@ -10,3 +10,7 @@
 		1. Advertisers use DSPs to decide which impressions to purchase and how much they're worth. The platform then communicates with the supply-side platform (SSP) to manage the buying process.
 	5. Supply-Side Platforms
 		1. Publishers use SSPs to sell ad impressions to the highest bidder in real-time, maximizing the revenue they receive for their content. 
+2. Google 
+	1. Google AdSense
+	2. Google AdMob
+	3. Google 
