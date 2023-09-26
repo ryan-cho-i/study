@@ -1,4 +1,5 @@
 
-https://prebid.org/product-suite/prebidjs/
-
-https://docs.prebid.org/overview/intro-to-header-bidding.html
+1. [[Prebid.js]]
+2. [[Prebid Server]]
+3. Prebid Mobile
+4. SharedID

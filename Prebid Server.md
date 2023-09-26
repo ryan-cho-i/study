@@ -1,0 +1,6 @@
+
+1. A digital advertising seller sets Prebid Server up on a server.
+2. Prebid Server receives ad requests from a personal computer, a mobile device, or another server.
+3. Prebid Server is able to enrich ad requests it receives, which means that it adds additional contextual information like IP-based location. It’s also able to interpret user consent and take actions such as restricting auction functions or limiting the sharing of personal data.
+4. Next, Prebid Server runs the auction. It sends bid requests to bidders, who respond with bids. Prebid Server validates each of the bids, checking for things like privacy compliance and adherence to price floors. It then finalizes the auction and transmits the results to the system that sent it the initial ad request.
+5. The seller who uses and hosts Prebid Server configures it to work how they want it to. Settings like privacy and consent controls, price floors, auction controls, the selection of bidders, and ad request enrichment functions are all determined by configurations that the seller sets.

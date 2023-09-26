@@ -8,32 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0f7c9e647b0fe0c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c0870b35dd219723",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DFP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a90edfe5a226e349",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Prebid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "118c76d130ae8322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prebid.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4708d2a1ca725ee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Ad Manager (DoubleClick for Publisher).md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prebid.md",
+                "file": "Google Ad Manager (DoubleClick for Publisher).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prebid.md",
+                "file": "Google Ad Manager (DoubleClick for Publisher).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prebid.md"
+                "file": "Google Ad Manager (DoubleClick for Publisher).md"
               }
             }
           }
@@ -167,10 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a90edfe5a226e349",
+  "active": "4708d2a1ca725ee5",
   "lastOpenFiles": [
-    "DFP.md",
+    "Prebid.js.md",
+    "Google Ad Manager (DoubleClick for Publisher).md",
     "Prebid.md",
-    "README.md"
+    "README.md",
+    "Prebid Server.md",
+    "Header Bidding.md",
+    "DFP.md",
+    "Untitled 2",
+    "Untitled 1",
+    "Untitled"
   ]
 }
