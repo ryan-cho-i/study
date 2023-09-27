@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Terms.md",
+                "file": "Google Publisher Tag (GPT).md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Terms.md",
+                "file": "Google Publisher Tag (GPT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Terms.md",
+                "file": "Google Publisher Tag (GPT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Terms.md"
+                "file": "Google Publisher Tag (GPT).md"
               }
             }
           }
@@ -245,12 +245,12 @@
   },
   "active": "ca23c6cdb5ec525b",
   "lastOpenFiles": [
-    "Pixel.md",
-    "Untitled 1.md",
-    "Basic Terms.md",
-    "SSP Dashboard.md",
     "Google Ad Manager (DoubleClick for Publisher).md",
     "Google Publisher Tag (GPT).md",
+    "Basic Terms.md",
+    "Pixel.md",
+    "Untitled 1.md",
+    "SSP Dashboard.md",
     "Prebid.js.md",
     "Advertising Technology.md",
     "Untitled",
