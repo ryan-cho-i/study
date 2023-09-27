@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Publisher Tag (GPT).md",
+                "file": "Google Ad Manager (DoubleClick for Publisher).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Publisher Tag (GPT).md",
+                "file": "Google Ad Manager (DoubleClick for Publisher).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Publisher Tag (GPT).md"
+                "file": "Google Ad Manager (DoubleClick for Publisher).md"
               }
             }
           }
@@ -207,10 +207,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7e4520c99e4d687",
+  "active": "4708d2a1ca725ee5",
   "lastOpenFiles": [
-    "Prebid.js.md",
     "Google Publisher Tag (GPT).md",
+    "Prebid.js.md",
     "Advertising Technology.md",
     "Untitled",
     "Google Ad Manager (DoubleClick for Publisher).md",
