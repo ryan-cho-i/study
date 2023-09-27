@@ -73,74 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Publisher Tag (GPT).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42d8b5c43c25b6ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6783f47713f2ed1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "AD TECH.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55a645f4b614d4bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prebid.js.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cfd68311ac8c35a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prebid.js.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7e4520c99e4d687",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Publisher Tag (GPT).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -267,18 +207,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6783f47713f2ed1a",
+  "active": "a4d4036e757a7abd",
   "lastOpenFiles": [
-    "Untitled.md",
-    "AD TECH.md",
-    "Google Publisher Tag (GPT).md",
-    "Google Ad Manager (DoubleClick for Publisher).md",
-    "Pixel.md",
-    "Prebid.md",
-    "Prebid Server.md",
     "Prebid.js.md",
     "README.md",
     "SSP Dashboard.md",
+    "Untitled.md",
+    "Google AdMob.md",
+    "Google Ad Manager (DoubleClick for Publisher).md",
+    "Google Publisher Tag (GPT).md",
+    "AD TECH.md",
+    "Pixel.md",
+    "Prebid.md",
+    "Prebid Server.md",
     "Basic Terms.md",
     "Advertising Technology.md",
     "Untitled",
