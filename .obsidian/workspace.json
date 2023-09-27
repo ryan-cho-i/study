@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "42d8b5c43c25b6ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6783f47713f2ed1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "광고 업체들.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "55a645f4b614d4bb",
             "type": "leaf",
             "state": {
@@ -116,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -182,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Publisher Tag (GPT).md",
+                "file": "광고 업체들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Publisher Tag (GPT).md",
+                "file": "광고 업체들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Publisher Tag (GPT).md"
+                "file": "광고 업체들.md"
               }
             }
           }
@@ -243,18 +267,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4d4036e757a7abd",
+  "active": "6783f47713f2ed1a",
   "lastOpenFiles": [
+    "Untitled.md",
+    "광고 업체들.md",
+    "Google Publisher Tag (GPT).md",
+    "Google Ad Manager (DoubleClick for Publisher).md",
     "Pixel.md",
     "Prebid.md",
     "Prebid Server.md",
     "Prebid.js.md",
     "README.md",
     "SSP Dashboard.md",
-    "Google Publisher Tag (GPT).md",
-    "Google Ad Manager (DoubleClick for Publisher).md",
     "Basic Terms.md",
-    "Untitled 1.md",
     "Advertising Technology.md",
     "Untitled",
     "Advertisement Technology",
