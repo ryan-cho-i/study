@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f500261008328413",
@@ -244,21 +243,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca23c6cdb5ec525b",
+  "active": "a4d4036e757a7abd",
   "lastOpenFiles": [
-    "Google Ad Manager (DoubleClick for Publisher).md",
-    "Google Publisher Tag (GPT).md",
-    "Basic Terms.md",
     "Pixel.md",
-    "Untitled 1.md",
-    "SSP Dashboard.md",
+    "Prebid.md",
+    "Prebid Server.md",
     "Prebid.js.md",
+    "README.md",
+    "SSP Dashboard.md",
+    "Google Publisher Tag (GPT).md",
+    "Google Ad Manager (DoubleClick for Publisher).md",
+    "Basic Terms.md",
+    "Untitled 1.md",
     "Advertising Technology.md",
     "Untitled",
     "Advertisement Technology",
-    "Prebid.md",
-    "README.md",
-    "Prebid Server.md",
     "Header Bidding.md",
     "DFP.md",
     "Untitled 2",
