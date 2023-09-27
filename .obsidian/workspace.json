@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "광고 업체들.md",
+                "file": "AD TECH.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "광고 업체들.md",
+                "file": "AD TECH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "광고 업체들.md",
+                "file": "AD TECH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "광고 업체들.md"
+                "file": "AD TECH.md"
               }
             }
           }
@@ -270,7 +270,7 @@
   "active": "6783f47713f2ed1a",
   "lastOpenFiles": [
     "Untitled.md",
-    "광고 업체들.md",
+    "AD TECH.md",
     "Google Publisher Tag (GPT).md",
     "Google Ad Manager (DoubleClick for Publisher).md",
     "Pixel.md",
