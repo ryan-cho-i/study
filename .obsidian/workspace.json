@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AD TECH.md",
+                "file": "Google Publisher Tag (GPT).md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AD TECH.md",
+                "file": "Google Publisher Tag (GPT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AD TECH.md",
+                "file": "Google Publisher Tag (GPT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AD TECH.md"
+                "file": "Google Publisher Tag (GPT).md"
               }
             }
           }
@@ -209,6 +209,7 @@
   },
   "active": "ca23c6cdb5ec525b",
   "lastOpenFiles": [
+    "AD TECH.md",
     "Prebid.md",
     "Prebid.js.md",
     "README.md",
@@ -217,7 +218,6 @@
     "Google AdMob.md",
     "Google Ad Manager (DoubleClick for Publisher).md",
     "Google Publisher Tag (GPT).md",
-    "AD TECH.md",
     "Pixel.md",
     "Prebid Server.md",
     "Basic Terms.md",
