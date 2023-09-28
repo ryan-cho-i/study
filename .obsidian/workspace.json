@@ -207,8 +207,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4d4036e757a7abd",
+  "active": "ca23c6cdb5ec525b",
   "lastOpenFiles": [
+    "Prebid.md",
     "Prebid.js.md",
     "README.md",
     "SSP Dashboard.md",
@@ -218,7 +219,6 @@
     "Google Publisher Tag (GPT).md",
     "AD TECH.md",
     "Pixel.md",
-    "Prebid.md",
     "Prebid Server.md",
     "Basic Terms.md",
     "Advertising Technology.md",
