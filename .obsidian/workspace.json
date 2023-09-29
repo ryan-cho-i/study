@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "18f8c006dda0474f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Criteo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "비자 종류.md",
+                "file": "Criteo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "비자 종류.md",
+                "file": "Criteo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "비자 종류.md"
+                "file": "Criteo.md"
               }
             }
           }
@@ -207,15 +219,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca23c6cdb5ec525b",
+  "active": "18f8c006dda0474f",
   "lastOpenFiles": [
+    "비자 종류.md",
+    "Criteo.md",
+    "SSP Dashboard.md",
     "Google Publisher Tag (GPT).md",
     "AD TECH.md",
     "Prebid.md",
     "Prebid.js.md",
     "README.md",
-    "SSP Dashboard.md",
-    "비자 종류.md",
     "Google AdMob.md",
     "Google Ad Manager (DoubleClick for Publisher).md",
     "Pixel.md",
