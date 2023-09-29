@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3cde1d66df80a252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTP Request.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Chrome DevTools.md",
+                "file": "HTTP Request.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Chrome DevTools.md",
+                "file": "HTTP Request.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Chrome DevTools.md"
+                "file": "HTTP Request.md"
               }
             }
           }
@@ -231,10 +243,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dbd185045de7639",
+  "active": "3cde1d66df80a252",
   "lastOpenFiles": [
-    "Criteo.md",
     "Google Chrome DevTools.md",
+    "HTTP Request.md",
+    "Criteo.md",
     "비자 종류.md",
     "SSP Dashboard.md",
     "Google Publisher Tag (GPT).md",
