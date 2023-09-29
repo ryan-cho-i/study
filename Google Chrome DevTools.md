@@ -7,4 +7,4 @@
 6. Memory
 7. Application
 8. Security
-9. 
+9. Lighthouse
