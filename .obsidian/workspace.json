@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Chrome DevTools.md",
+                "file": "HTTP Request.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Chrome DevTools.md",
+                "file": "HTTP Request.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Chrome DevTools.md",
+                "file": "HTTP Request.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Chrome DevTools.md"
+                "file": "HTTP Request.md"
               }
             }
           }
@@ -245,6 +245,7 @@
   },
   "active": "3cde1d66df80a252",
   "lastOpenFiles": [
+    "Google Chrome DevTools.md",
     "HTTP Request.md",
     "Pixel.md",
     "Prebid.md",
@@ -253,7 +254,6 @@
     "SSP Dashboard.md",
     "비자 종류.md",
     "Prebid Server.md",
-    "Google Chrome DevTools.md",
     "Criteo.md",
     "Google Publisher Tag (GPT).md",
     "AD TECH.md",

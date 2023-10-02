@@ -24,6 +24,6 @@
 1. URI (Uniform Resource Identifier)
 	1. URI includes two subtypes 
 		1. URL (Uniform Resource Locator)
-			1. 
+			1. Specifies the location of a resource and includes details such as the protocol (e.g., "http://", "https://"), host (domain or IP address), port, and path. URL indicates "where" the resource can be found.
 		2. URN (Uniform Resource Name)
-			1. 
+			1. Represents the name of a resource. It provides a unique name for a specific resource and is not concerned with the location or changes in location. URN indicates "what" the resource is.

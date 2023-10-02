@@ -1,4 +1,10 @@
 
+1. HTTP Method
+2. URI
+3. HTTP Version
+4. Headers
+5. Request Body
+6. 
 
 
 
@@ -6,7 +12,7 @@
 
 
 
-1. How to get Client IP Address on Server?
+7. How to get Client IP Address on Server?
 ```js
 const express = require('express');
 const app = express();
