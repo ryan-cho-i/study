@@ -10,5 +10,11 @@
 5. Performance
 6. Memory
 7. Application
+	1. Application
+	2. Storage
+		1. Local Storage
+		2. Session Storage
+		3. Cookies
+	3. Background Services
 8. Security
 9. Lighthouse

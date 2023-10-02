@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSP Dashboard.md",
+                "file": "Google Chrome DevTools.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSP Dashboard.md",
+                "file": "Google Chrome DevTools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSP Dashboard.md",
+                "file": "Google Chrome DevTools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSP Dashboard.md"
+                "file": "Google Chrome DevTools.md"
               }
             }
           }
@@ -245,20 +245,20 @@
   },
   "active": "3cde1d66df80a252",
   "lastOpenFiles": [
-    "README.md",
-    "비자 종류.md",
-    "Prebid.js.md",
-    "Prebid.md",
-    "Prebid Server.md",
     "HTTP Request.md",
+    "Pixel.md",
+    "Prebid.md",
+    "Prebid.js.md",
+    "README.md",
+    "SSP Dashboard.md",
+    "비자 종류.md",
+    "Prebid Server.md",
     "Google Chrome DevTools.md",
     "Criteo.md",
-    "SSP Dashboard.md",
     "Google Publisher Tag (GPT).md",
     "AD TECH.md",
     "Google AdMob.md",
     "Google Ad Manager (DoubleClick for Publisher).md",
-    "Pixel.md",
     "Basic Terms.md",
     "Advertising Technology.md",
     "Untitled",
