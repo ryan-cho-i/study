@@ -4,143 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b7647807f30317b9",
+        "id": "3c58bb4ee1254178",
         "type": "tabs",
         "children": [
           {
-            "id": "a90edfe5a226e349",
+            "id": "62f73070b081730a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prebid.md",
+                "file": "AD TECH.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "118c76d130ae8322",
+            "id": "da20c19d58e6d8ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prebid.js.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4708d2a1ca725ee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Ad Manager (DoubleClick for Publisher).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77281ce7db2dfbcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SSP Dashboard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28eab12ffe843e0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SSP Dashboard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca23c6cdb5ec525b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "비자 종류.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18f8c006dda0474f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Criteo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dbd185045de7639",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Google Chrome DevTools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cde1d66df80a252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTTP Request.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d60d1e976f808ba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Login.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90c66cf20d97df9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Admaru Dashboard for Publisher.md",
+                "file": "Campaign Dashboard.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admaru Dashboard for Publisher.md",
+                "file": "Campaign Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admaru Dashboard for Publisher.md",
+                "file": "Campaign Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admaru Dashboard for Publisher.md"
+                "file": "Campaign Dashboard.md"
               }
             }
           }
@@ -267,30 +159,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90c66cf20d97df9a",
+  "active": "da20c19d58e6d8ec",
   "lastOpenFiles": [
-    "Login.md",
-    "Admaru Dashboard for Publisher.md",
-    "HTTP Request.md",
-    "Google Chrome DevTools.md",
-    "Pixel.md",
-    "Prebid.md",
+    "Advertising Technology.md",
+    "Campaign Dashboard.md",
+    "Untitled 1.md",
+    "AD TECH.md",
+    "Google Ads.md",
+    "SSP.md",
+    "Google Ad Exchange.md",
+    "Exchange.md",
+    "Google AdMob.md",
+    "Untitled.md",
     "Prebid.js.md",
-    "README.md",
+    "Prebid.md",
+    "DFP.md",
+    "Google Ad Manager (DoubleClick for Publisher).md",
+    "Google Chrome DevTools.md",
+    "Google Publisher Tag (GPT).md",
     "SSP Dashboard.md",
     "비자 종류.md",
-    "Prebid Server.md",
     "Criteo.md",
-    "Google Publisher Tag (GPT).md",
-    "AD TECH.md",
-    "Google AdMob.md",
-    "Google Ad Manager (DoubleClick for Publisher).md",
+    "HTTP Request.md",
+    "Login.md",
+    "Admaru Dashboard for Publisher.md",
+    "Pixel.md",
+    "README.md",
+    "Prebid Server.md",
     "Basic Terms.md",
-    "Advertising Technology.md",
     "Untitled",
     "Advertisement Technology",
-    "Header Bidding.md",
-    "DFP.md",
     "Untitled 2",
     "Untitled 1"
   ]
